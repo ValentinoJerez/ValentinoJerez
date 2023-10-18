@@ -4,12 +4,9 @@
 **About Me**
 
 **Lenguages and Tools**
-- *Lenguajes de Programación:* JavaScript
-- *Frameworks y Librerías:* React
-- *Herramientas de Desarrollo:* Visual Studio Code, Git
-- *Bases de Datos:* MySQL
 
 **Contact**
+
 -✉️ [valenjerez69@gmail.com]
 
 -💼 [https://www.linkedin.com/in/valentino-jerez-567374281/]

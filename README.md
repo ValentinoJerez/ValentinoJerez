@@ -1,16 +1,6 @@
 ### Hi there, I´m Valentino Jerez 👋
 - 🔭 I’m currently working on Henry Project Final 
 
-**About Me**
-
-**Lenguages and Tools**
-
-**Contact**
-
--✉️ [valenjerez69@gmail.com]
-
--💼 [https://www.linkedin.com/in/valentino-jerez-567374281/]
-
 <!--
 **ValentinoJerez/ValentinoJerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

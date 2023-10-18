@@ -3,7 +3,7 @@
 
 **About Me**
 
-**Lenguages and Tools*
+**Lenguages and Tools**
 - *Lenguajes de Programación:* JavaScript
 - *Frameworks y Librerías:* React
 - *Herramientas de Desarrollo:* Visual Studio Code, Git

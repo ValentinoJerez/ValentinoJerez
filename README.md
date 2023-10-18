@@ -1,15 +1,15 @@
 ### Hi there, I´m Valentino Jerez 👋
 - 🔭 I’m currently working on Henry Project Final 
 
-##About Me
+**About Me**
 
-##Lenguages and Tools
-- **Lenguajes de Programación:** Java, Python, JavaScript
-- **Frameworks y Librerías:** React, Spring Boot, Django
-- **Herramientas de Desarrollo:** Visual Studio Code, Git, Docker
-- **Bases de Datos:** MySQL, MongoDB
+**Lenguages and Tools*
+- *Lenguajes de Programación:* JavaScript
+- *Frameworks y Librerías:* React
+- *Herramientas de Desarrollo:* Visual Studio Code, Git
+- *Bases de Datos:* MySQL
 
-##Contact
+**Contact**
 -✉️ [valenjerez69@gmail.com]
 
 -💼 [https://www.linkedin.com/in/valentino-jerez-567374281/]

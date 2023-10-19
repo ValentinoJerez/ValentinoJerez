@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on Henry Project Final  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 

@@ -1,4 +1,4 @@
-##Hi, I´m Valentino Jerez! 👋🏻
+## Hi, I´m Valentino Jerez! 👋🏻
 
 <br/>  
 
@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on Henry Project Final  
   
-
 
 <br/>  
 

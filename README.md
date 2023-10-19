@@ -1,5 +1,7 @@
 ##Hi, I´m Valentino Jerez! 👋🏻
+
 <br/>  
+
 ### <div align="center">A full-stack developer 👨‍💻 </div>  
   
 

@@ -2,7 +2,7 @@
 
 <br/>  
 
-### <div align="center">A full-stack developer 👨‍💻 </div>  
+### <div align="center">Full Stack Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on Henry Project Final  

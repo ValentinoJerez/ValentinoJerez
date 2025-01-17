@@ -5,7 +5,7 @@
 ### <div align="center">Full Stack Developer 👨‍💻🚀 </div>  
   
 
-- 🔭 I’m currently working on my Portfolio 
+- 🔭 I’m currently studying in the Oracle ONE program
   
 
 <br/>  
